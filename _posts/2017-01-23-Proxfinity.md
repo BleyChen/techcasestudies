@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Azure services can help Proxfinity migrate from retiring Parse"
+title:  "Bley Test How Azure services can help Proxfinity migrate from retiring Parse"
 author: "Martin Schray"
 author-link: "#"
 #author-image: "{{ site.baseurl }}/images/Proxfinity/AuthorsPhoto350.png"
@@ -15,7 +15,7 @@ language: English
 
 
 
-In this joint development effort, Microsoft teamed up with Michael Howells, the CTO of Proxfinity, to develop a proof of concept that demonstrates how Proxfinity could leverage Azure IoT Hub and Azure Stream Analytics to support Proxfinity's migration from Parse. With Parse being retired in January 2017, the Proxfinity team took the preparatory step prior to the hackfest of moving its Parse environment to Azure Virtual Machines—the Azure infrastructure-as-a-service offer. 
+Bley Test In this joint development effort, Microsoft teamed up with Michael Howells, the CTO of Proxfinity, to develop a proof of concept that demonstrates how Proxfinity could leverage Azure IoT Hub and Azure Stream Analytics to support Proxfinity's migration from Parse. With Parse being retired in January 2017, the Proxfinity team took the preparatory step prior to the hackfest of moving its Parse environment to Azure Virtual Machines—the Azure infrastructure-as-a-service offer. 
 
 Core team:
 
